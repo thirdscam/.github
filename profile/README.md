@@ -1,1 +1,5 @@
-![122-1228233_thinking-emoji-meme-png-thinking-emoji-made-of](https://github.com/thirdscam/.github/assets/60401462/3ad6d477-d1ad-4ad7-b629-b3f778367612)
+# :(
+<b>Your code ran into a problem and needs to refactor.</b></br>
+<b>We're just collecting some error info, and then we'll rewrite for you.</b></br></br>
+<b>99% complete</b></br></br>
+for more information about this issue and possible fixes, visit [here](https://github.com/thirdscam)
